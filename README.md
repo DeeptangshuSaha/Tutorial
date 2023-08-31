@@ -1,3 +1,3 @@
 # Tutorial
-My Git tutorial for collab
+My Git tutorial for collab<br>
 Author: Deep
